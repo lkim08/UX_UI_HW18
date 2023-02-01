@@ -182,7 +182,7 @@ h6{
 .class1 {
     border: 1px solid #FFF3F3;
     width: 40%;
-    height: 337px;
+    height: 380px;
     padding: 50px;
     margin-bottom: 3%;
     margin-left: auto;
@@ -204,7 +204,7 @@ h6{
 .class2 {
     border: 1px solid #F3FBFF;
     width: 40%;
-    height: 332px;
+    height: 542px;
     padding: 50px;
     margin-bottom: 3%;
     margin-left: auto;
@@ -213,6 +213,12 @@ h6{
     background-color: #F3FBFF;
 }
 
+.txHome {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
 
 h7 {
     font-size: 2rem;
